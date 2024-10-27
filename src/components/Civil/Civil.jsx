@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link,NavLink } from 'react-router-dom'
 
-export default function Notes1() {
+export default function Civil() {
   return (
     <div>
-      <p class="text-center ext-3xl font-bold text-black"> Metallurgy department</p>
+      <p class="text-center text-3xl font-bold text-black mx-6">Civil department</p>
         <div className="h-auto w-100 flex flex-wrap flex-col items-center text-centre p-10">
        
         <div className="w-full flex flex-wrap justify-evenly">
@@ -21,7 +21,7 @@ export default function Notes1() {
                </a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-                <a href=""><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
+                <a href="https://drive.google.com/drive/folders/1Z6sVVaqcM-ZJPq6MjYWXICrIgr-IhO0M?usp=drive_link"><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">3rd semester</p></a>
             </div>

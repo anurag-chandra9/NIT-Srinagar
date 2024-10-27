@@ -25,7 +25,7 @@ export default function  Academics() {
             
             
                 <NavLink
-                                to="/Notes1"
+                                to="/Civil"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
@@ -38,7 +38,7 @@ export default function  Academics() {
                                 </NavLink>
            
                 <NavLink
-                                to="/Notes1"
+                                to="/Mech"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
@@ -59,7 +59,7 @@ export default function  Academics() {
         <div class="w-full flex flex-wrap justify-evenly">
                
                 <NavLink
-                                to="/Notes1"
+                                to="/Ece"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
@@ -75,7 +75,7 @@ export default function  Academics() {
            
            
                 <NavLink
-                                to="/Notes1"
+                                to="/Electrical"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
@@ -89,7 +89,7 @@ export default function  Academics() {
             
            
                 <NavLink
-                                to="/Notes1"
+                                to="/Chemical"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
@@ -109,7 +109,7 @@ export default function  Academics() {
         <div class="w-full flex flex-wrap justify-evenly">
            
                 <NavLink
-                                to="/Notes1"
+                                to="/Cs"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
@@ -123,7 +123,7 @@ export default function  Academics() {
             
            
                 <NavLink
-                                to="/Notes1"
+                                to="/It"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }

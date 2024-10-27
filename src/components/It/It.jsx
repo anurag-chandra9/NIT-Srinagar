@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link,NavLink } from 'react-router-dom'
 
-export default function Notes1() {
+export default function It() {
   return (
     <div>
-      <p class="text-center ext-3xl font-bold text-black"> Metallurgy department</p>
+      <p class="text-center ext-3xl font-bold text-black"> IT department</p>
         <div className="h-auto w-100 flex flex-wrap flex-col items-center text-centre p-10">
        
         <div className="w-full flex flex-wrap justify-evenly">

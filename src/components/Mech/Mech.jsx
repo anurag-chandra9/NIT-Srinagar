@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link,NavLink } from 'react-router-dom'
 
-export default function Notes1() {
+export default function Mech() {
   return (
     <div>
       <p class="text-center ext-3xl font-bold text-black"> Metallurgy department</p>
