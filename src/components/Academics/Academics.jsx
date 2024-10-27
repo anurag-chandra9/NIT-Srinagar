@@ -68,7 +68,7 @@ export default function  Academics() {
 
                 <img class="w-44 h-44" src="https://learnengineering.in/wp-content/uploads/2018/09/ECE-Logo.png"
                  alt=""/>
-                <p class="text-3xl font-bold text-black">Electronics and Communication </p>
+                <p class="text-center text-3xl font-bold text-black">Electronics and Communication </p>
                 </div>
                                 
                                 </NavLink>
@@ -83,7 +83,7 @@ export default function  Academics() {
                                      <div class="w-46 flex flex-col items-center mb-12">
                 <img class="w-44 h-44" src="https://static.vecteezy.com/system/resources/previews/036/138/012/original/electrical-engineering-logo-design-creative-modern-concept-with-construction-and-safety-cap-template-vector.jpg"
                  alt=""/>
-                <p class="text-3xl font-bold text-black mx-6">Electrical department</p>
+                <p class="text-center text-3xl font-bold text-black mx-6">Electrical department</p>
                 </div>
                                 </NavLink>
             
@@ -96,7 +96,7 @@ export default function  Academics() {
                                 > <div class="w-46 flex flex-col items-center mb-12">
                                 <img class="w-44 h-44" src="https://th.bing.com/th/id/OIP.4-x9aR8_AmCRnnOVDQAPhwHaFP?rs=1&pid=ImgDetMain"
                                  alt=""/>
-                                <p class="text-3xl font-bold text-black">Chemical department</p>
+                                <p class=" text-center text-3xl font-bold text-black">Chemical department</p>
                                 </div>
                                     
                                 </NavLink>
