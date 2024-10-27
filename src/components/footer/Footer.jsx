@@ -55,11 +55,8 @@ export default function Footer() {
                                 </NavLink>
                                     
                                 </li>
-                                <li>
-                                    <Link to="/" className="hover:underline">
-                                        Discord
-                                    </Link>
-                                </li>
+                                
+                          
                             </ul>
                         </div>
                         <div>
