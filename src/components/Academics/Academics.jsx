@@ -19,7 +19,7 @@ export default function  Academics() {
                                     <div class="w-46 flex flex-col items-center mb-12">
                 <img class="w-44 h-44" src="https://thumbs.dreamstime.com/z/metallurgy-foundry-iron-molten-metal-pouring-gear-logo-design-heavy-industry-engineering-industrial-vector-illustration-242039240.jpg"
                  alt=""/>
-                <p class="text-3xl font-bold text-black"> Metallurgy department</p>
+                <p class="text-center ext-3xl font-bold text-black"> Metallurgy department</p>
                 </div>
                                 </NavLink>
             
@@ -33,7 +33,7 @@ export default function  Academics() {
                                     <div class="w-46 flex flex-col items-center mb-12">
                 <img class="w-44 h-44" src="https://th.bing.com/th/id/OIP.1ZozYEDBe8kpdJSM3bLIFQHaHa?rs=1&pid=ImgDetMain"
                  alt=""/>
-                <p class="text-3xl font-bold text-black mx-6">Civil department</p>
+                <p class="text-center text-3xl font-bold text-black mx-6">Civil department</p>
                 </div>
                                 </NavLink>
            
@@ -46,7 +46,7 @@ export default function  Academics() {
                                      <div class="w-46 flex flex-col items-center mb-12">
                 <img class="w-44 h-44" src="https://static.vecteezy.com/system/resources/thumbnails/012/627/960/small/mechanical-enginering-perfect-logo-for-automotive-company-vector.jpg"
                  alt=""/>
-                <p class="text-3xl font-bold text-black">Mechanical department</p>
+                <p class=" text-center text-3xl font-bold text-black">Mechanical department</p>
                 </div>
                                 </NavLink>
 
