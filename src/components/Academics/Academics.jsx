@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, NavLink } from "react-router-dom";
 
-export default function Contact() {
+export default function  Academics() {
     return (<>  
         <div class="h-auto w-100 flex flex-wrap flex-col items-center text-centre p-10">
         <div class="w-full h-auto flex flex-wrap flex-col items-center ">

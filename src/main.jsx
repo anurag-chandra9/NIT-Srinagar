@@ -6,9 +6,9 @@ import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } 
 import Layout from './Layout1.jsx'
 import Home from './components/Home/Home.jsx'
 import About1 from './components/About1/About1.jsx'
-import  Contact from './components/contact-us/Contact-us.jsx'
+import   Academics from './components/Academics/Academics.jsx'
 import User from './components/User/user.jsx'
-import Github from './components/Github/Github.jsx'
+import Announcement from './components/Announcement/Announcement.jsx'
 import Notes1 from './components/Notes1/Notes1.jsx'
 
 const router = createBrowserRouter(
@@ -16,9 +16,9 @@ const router = createBrowserRouter(
     <Route path='/' element={<Layout />}>
       <Route path='' element={<Home />} />
       <Route path='About1' element={<About1/>} />
-      <Route path='/contact-us' element={<Contact/>} />
+      <Route path='/ Academics' element={< Academics/>} />
       <Route path='user/:userid'element={<User/>}/>
-      <Route path='/Github'element={<Github/>}/>
+      <Route path='/Announcement'element={<Announcement/>}/>
       <Route path='/Notes1'element={<Notes1/>}/>
     </Route>
   )

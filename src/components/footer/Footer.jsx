@@ -42,17 +42,18 @@ export default function Footer() {
                             </ul>
                         </div>
                         <div>
-                            <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Follow us</h2>
+                            <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase"><a href="https://www.instagram.com/nitsriofficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Follow us</a></h2>
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
-                                    <a
-                                        href="https://github.com/anurag-chandra9"
-                                        className="hover:underline"
-                                        target="_blank"
-                                        rel="noreferrer"
-                                    >
-                                        Github
-                                    </a>
+                                <NavLink
+                                to="/Announcement"
+                                    className={({isActive}) =>
+                                        `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-grey-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
+                                    }
+                                > Announcement
+                            
+                                </NavLink>
+                                    
                                 </li>
                                 <li>
                                     <Link to="/" className="hover:underline">
