@@ -117,7 +117,7 @@ export default function  Academics() {
                                      <div class="w-46 flex flex-col items-center mb-12">
                 <img class="w-44 h-44" src="https://i.pinimg.com/originals/f0/53/e9/f053e95f8365f5c0005b26fba6af7881.jpg"
                  alt=""/>
-                <p class="text-3xl font-bold text-black"> Computer Science department</p>
+                <p class=" text-center text-3xl font-bold text-black"> Computer Science department</p>
                 </div>
                                 </NavLink>
             
@@ -131,7 +131,7 @@ export default function  Academics() {
                                  <div class="w-46 flex flex-col items-center mb-12">
                 <img class="w-44 h-44" src="https://static.vecteezy.com/system/resources/previews/021/733/829/original/it-letter-monogram-tech-information-logo-design-vector.jpg"
                  alt=""/>
-                <p class="text-3xl font-bold text-black mx-6">IT department</p>
+                <p class=" text-center text-3xl font-bold text-black mx-6">IT department</p>
                 </div>
                                 </NavLink>
             
