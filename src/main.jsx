@@ -20,6 +20,7 @@ import It from './components/It/It.jsx'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
+    <Switch>
     <Route path='/' element={<Layout />}>
       <Route path='' element={<Home />} />
       <Route path='About1' element={<About1/>} />
@@ -38,6 +39,8 @@ const router = createBrowserRouter(
       
 
     </Route>
+    </Switch>
+
   )
 )
 ReactDOM.createRoot(document.getElementById('root')).render(
