@@ -21,12 +21,12 @@ export default function Notes1() {
                </a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-                <a href=""><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
+                <a href="https://drive.google.com/drive/folders/1wF7z6HW_PTZj4eTJt4xVztiyaUZftlMq?usp=drive_link"><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">3rd semester</p></a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-               <a href=""> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.3-22xhcEstNDUqPi7z2-rgHaH5?rs=1&pid=ImgDetMain"
+               <a href="https://drive.google.com/drive/folders/1GmOl93qiKzEcIPZvGb6SFFLHwLEnTFfy?usp=drive_link"> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.3-22xhcEstNDUqPi7z2-rgHaH5?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">4th semester</p></a>
             </div>
