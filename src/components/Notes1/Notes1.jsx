@@ -54,8 +54,13 @@ export default function Notes1() {
               <a href=""> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.TlWoSXakdJZaz6NInLeAxQHaH_?w=1000&h=1080&rs=1&pid=ImgDetMain"
                 alt=""/>
                <p className="text-3xl font-bold text-black">8th semester</p></a>
+         
            </div>
        </div>
+       <div className="w-46 flex flex-col items-center mb-12">
+               <a href="https://drive.google.com/drive/folders/1S9M-nwSzauUoGOkzAtuvPxrNo5lm-glV?usp=drive_link"> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.lyo5RrEQcE3eqJ7ZxwrUEgHaHP?rs=1&pid=ImgDetMain"/>
+                <p className="text-3xl font-bold text-black">Gate material</p></a>
+            </div>
    </div>
     </div>
   )

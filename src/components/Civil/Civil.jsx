@@ -36,7 +36,7 @@ export default function Civil() {
        
        <div className="w-full flex flex-wrap justify-evenly">
            <div className="w-46 flex flex-col items-center mb-12">
-              <a href=""> <img className="w-44 h-44" src="https://thumbs.dreamstime.com/z/number-five-symbol-sign-circle-th-fifth-count-hashtag-icon-simple-flat-design-vector-illustration-white-shadow-blue-223709754.jpg"
+              <a href="https://drive.google.com/drive/folders/1XijKVHnxof0ieOEbW5FfUgQ_pJiqvMXN?usp=sharing"> <img className="w-44 h-44" src="https://thumbs.dreamstime.com/z/number-five-symbol-sign-circle-th-fifth-count-hashtag-icon-simple-flat-design-vector-illustration-white-shadow-blue-223709754.jpg"
                 alt=""/>
                <p className="text-3xl font-bold text-black">5th semester</p></a>
            </div>
