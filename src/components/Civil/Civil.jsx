@@ -21,7 +21,7 @@ export default function Civil() {
                </a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-                <a href="https://drive.google.com/drive/folders/1Z6sVVaqcM-ZJPq6MjYWXICrIgr-IhO0M?usp=drive_link"><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
+                <a href="https://drive.google.com/drive/folders/1qEjyWanPnB7p_hhvTY4YE2CUwFVN8j4-?usp=drive_link"><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">3rd semester</p></a>
             </div>
