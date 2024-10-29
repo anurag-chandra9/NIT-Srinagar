@@ -26,7 +26,7 @@ export default function Civil() {
                 <p className="text-3xl font-bold text-black">3rd semester</p></a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-               <a href=""> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.3-22xhcEstNDUqPi7z2-rgHaH5?rs=1&pid=ImgDetMain"
+               <a href="https://drive.google.com/drive/folders/1GXiZx89uGVpLYfT2Jr7F97dk5N5zSq89?usp=sharing"> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.3-22xhcEstNDUqPi7z2-rgHaH5?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">4th semester</p></a>
             </div>
