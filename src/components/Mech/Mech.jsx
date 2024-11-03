@@ -21,7 +21,7 @@ export default function Mech() {
                </a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-                <a href=""><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
+                <a href="https://drive.google.com/drive/folders/1lMNWuOHnJwtPG3wkt46PDVu1E1o2h4IL?usp=sharing"><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">3rd semester</p></a>
             </div>
@@ -56,6 +56,10 @@ export default function Mech() {
                <p className="text-3xl font-bold text-black">8th semester</p></a>
            </div>
        </div>
+       <div className="w-46 flex flex-col items-center mb-12">
+               <a href="https://drive.google.com/drive/folders/1SVaHtqu8k7m1xTg5a5EOiCNpv0MH4nfZ?usp=sharing"> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.lyo5RrEQcE3eqJ7ZxwrUEgHaHP?rs=1&pid=ImgDetMain"/>
+                <p className="text-3xl font-bold text-black">Gate material</p></a>
+            </div>
    </div>
     </div>
   )
