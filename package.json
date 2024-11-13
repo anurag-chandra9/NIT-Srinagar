@@ -2,6 +2,7 @@
   "name": "reactrouter",
   "private": true,
   "version": "0.0.0",
+  "homepage": ".",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +11,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vercel/analytics": "^1.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0"
