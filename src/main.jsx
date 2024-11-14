@@ -21,7 +21,7 @@ import It from './components/It/It.jsx'
 const router = createBrowserRouter(
   createRoutesFromElements(
 
-    <Route path='/' element={<Layout />}>
+    <Route path='/' element={<Layout/>}>
       <Route path='' element={<Home/>} />
       <Route path='/About1' element={<About1/>} />
       <Route path=' /Academics' element={<Academics/>} />
