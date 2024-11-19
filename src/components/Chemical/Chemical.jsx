@@ -21,12 +21,12 @@ export default function Chemical() {
                </a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-                <a href=""><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
+                <a href="https://drive.google.com/drive/folders/1fR2vAebK4CpfguFeqG-KULFb2--q9OoH?usp=sharing"><img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.zz2nSwXNQFaLcuhwN4C2MgHaH0?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">3rd semester</p></a>
             </div>
             <div className="w-46 flex flex-col items-center mb-12">
-               <a href=""> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.3-22xhcEstNDUqPi7z2-rgHaH5?rs=1&pid=ImgDetMain"
+               <a href="https://drive.google.com/drive/folders/1b-cOCLh8BxyozciHdLB_8Vkan7k_oMgn?usp=sharing"> <img className="w-44 h-44" src="https://th.bing.com/th/id/OIP.3-22xhcEstNDUqPi7z2-rgHaH5?rs=1&pid=ImgDetMain"
                  alt=""/>
                 <p className="text-3xl font-bold text-black">4th semester</p></a>
             </div>
